@@ -1,4 +1,4 @@
-TOKEN="" # Your token here
+TOKEN="534770452:AAGX6tqhFaXZ332GnoyZngaFymT_IH933N4" # Your token here
 FILE_REGEX="/"
 
 GLOBAL_LANG='en'
